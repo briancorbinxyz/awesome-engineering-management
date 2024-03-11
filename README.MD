@@ -127,7 +127,7 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
   > “You don’t have to be the victim of your environment. You can also be the architect of it.”
  
-  > 
+
 ## Contributors 
 
 [![awesome-engineering-management contributors](https://contrib.rocks/image?repo=briancorbinxyz/awesome-engineering-management&max=2000)](https://github.com/briancorbinxyz/awesome-engineering-management/graphs/contributors)
