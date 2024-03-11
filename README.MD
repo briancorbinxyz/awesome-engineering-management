@@ -21,6 +21,8 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
   > “You don’t hire for skills; you hire for attitude. You can always teach skills.” (Herb Kelleher)
 
+  > "Great companies don’t hire skilled people and motivate them, they hire already motivated people and inspire them."
+
 - [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
 
   <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484107737i/33369254.jpg" alt="The Manager's Path" width="150"/>
@@ -50,10 +52,82 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
   > "When the leaders of an organization listen to the people who work there….without coercion, pressure or force, the people naturally work together to help each other and advance the company."
 
+- [Emotional Intelligence 2.0](https://www.goodreads.com/book/show/6486483-emotional-intelligence-2-0) by Travis Bradberry & Jean Greaves
+
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328765863i/6486483.jpg" alt="Emotional Intelligence 2.0" width="150"/>
+
+  > “Emotional intelligence is your ability to recognize and understand emotions in yourself and others, and your ability to use this awareness to manage your behavior and relationships.”
+
+  > “The secret to winning this culture game is to treat others how they want to be treated, not how you would want to be treated.”
+
+  > “Some of the most challenging and stressful situations people face are at work. Conflicts at work tend to fester when people passively avoid problems, because people lack the skills needed to initiate a direct, yet constructive conversation. Conflicts at work tend to explode when people don’t manage their anger or frustration, and choose to take it out on other people. Relationship management gives you the skills you need to avoid both scenarios, and make the most out of every interaction you have with another person.” 
 
 ### Product Management
+
+#### Books
+
+- [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) by Simon Sinek
+
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360936414i/7108725.jpg" width="150"/>
+
+  > “People don't buy what you do; they buy why you do it. And what you do simply proves what you believe”
+
+  > "Articulating our values as verbs gives us a clear idea - we have a clear idea of how to act in any situation."
+
+  > “People who love going to work are more productive and more creative. They go home happier and have happier families. They treat their colleagues and clients and customers better.”
+
+  > “WHATs are products, services and job functions we perform. HOWs are values, guiding principles and actions that make us stand out. The WHY defines what the organization stands for—it is the collective purpose, cause or belief.”
+
+- [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan
+
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685881845i/35249663.jpg" alt="Inspired: How to Create Tech Products Customers Love" width="150"/>
+
+  > “It doesn’t matter how good your engineering team is if they are not given something worthwhile to build.”
+
+  > “Never tell people how to do things. Tell them what to do, and they will surprise you with their ingenuity.” —General George S. Patton, Jr. General”
+
+  > “Software projects can be thought of as having two distinct stages: figuring out what to build (build the right product), and building it (building the product right). The first stage is dominated by product discovery, and the second stage is all about execution.”
+
+  > “Keep the focus on minimal product...your job as product manager is not to define the ultimate product, it’s to define the smallest possible product that will meet your goals.”
+
+  > "The Objectives and Key Results (OKR) technique is a tool for management, focus, and alignment. As with any tool, there are many ways to use it. Objectives should be qualitative; key results need to be quantitative/measurable. Key results should be a measure of business results, not output or tasks."
+
+- [Empowered: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered) by Marty Cagan & Chris Jones
+
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602564432i/53481975.jpg" alt="Empowered: Ordinary People, Extraordinary Products" width="150"/>
+
+  > “The most important decision at Amazon, has been, and remains, hiring the right talent.” (Amazon founder, Jeff Bezos)
+
+  > “The bottom line is that an organization will get more critical work accomplished if it focuses on just a few items at a time.”
+
+  > “Great teams are made up of ordinary people who are inspired and empowered.”
+
+  > “The famous computer scientist Melvin Conway coined an adage that is often referred to as Conway's Law. It states that any organization that designs a system will produce a design whose structure mirrors the organization's structure. Another way to say this is to beware of shipping your org chart.”
+
+  > “Trust is a function of two things: competence and character.”
+
+
 ### General Management Resources
 
+#### Books
+
+- [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
+
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg" alt="Atomic Habits" width="150"/>
+
+  Habits, follow a four-step process: “Cue, craving, response and reward.” Cues are the activators; cravings are the motivators. Responses are the answers that yield a reward.
+
+  > “Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.”
+
+  > “This is the meaning of the phrase atomic habits — a regular practice or routine that is not only small and easy to do, but also the source of incredible power; a component of the system of compound growth.”
+
+  > “Goals are good for setting a direction, but systems are best for making progress.”
+
+  > “We imitate the habits of three groups in particular: The close. The many. The powerful.”
+
+  > “You don’t have to be the victim of your environment. You can also be the architect of it.”
+ 
+  > 
 ## Contributors 
 
 [![awesome-engineering-management contributors](https://contrib.rocks/image?repo=briancorbinxyz/awesome-engineering-management&max=2000)](https://github.com/briancorbinxyz/awesome-engineering-management/graphs/contributors)
