@@ -70,8 +70,16 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
 #### Articles
 
-- [The Pixar Pitch](https://www.linkedin.com/pulse/pixar-pitch-blueprint-successful-storytelling-presentationload-k6aef/): A framework for presenting complex ideas in a compelling, story-driven way
-- [User Story Mapping](https://jpattonassociates.com/the-new-backlog/): Story Maps > Product Backlogs
+- [Product Management](https://www.svpg.com/product-management-start-here/) by SVPG
+- [The Product Operating Model](https://www.svpg.com/the-product-operating-model/) by SVPG
+- [Product vs. Feature Teams](https://www.svpg.com/product-vs-feature-teams/) by SVPG
+- [How to Set Up Your Product Teams for Success](https://www.youtube.com/watch?v=yCiQ2iW-fZk) by Chritian Idiodi (SVPG)
+- Storytelling:
+  - [Unlocking the Power of Storytelling](https://resources.scrumalliance.org/Article/unlocking-power-storytelling) by AgileAlliance
+  - [The Pixar Pitch](https://www.linkedin.com/pulse/pixar-pitch-blueprint-successful-storytelling-presentationload-k6aef/): A framework for presenting complex ideas in a compelling, story-driven way
+- Agility:
+  - [The Scrum Guide](https://scrumguides.org/scrum-guide.html)
+  - [User Story Mapping](https://jpattonassociates.com/the-new-backlog/): Story Maps > Product Backlogs
 
 #### Blogs
 
