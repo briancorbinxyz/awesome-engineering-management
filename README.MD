@@ -71,10 +71,11 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 #### Articles
 
 - [The Pixar Pitch](https://www.linkedin.com/pulse/pixar-pitch-blueprint-successful-storytelling-presentationload-k6aef/): A framework for presenting complex ideas in a compelling, story-driven way
+- [User Story Mapping](https://jpattonassociates.com/the-new-backlog/): Story Maps > Product Backlogs
 
 #### Blogs
 
-- [Product Talk](https://www.producttalk.org/blog/) Teresa Torres
+- [Product Talk](https://www.producttalk.org/blog/): Teresa Torres
 
 #### Tools
 
@@ -134,6 +135,11 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 #### Collaboration Tools
 
 - [Figjam](https://www.figma.com/templates/boards/figjam): Collaborative whiteboarding and meetings from the creators of Figma with great usability
+  - Templates:
+  - Widgets:
+  - Tutorials:
+    - [Top 10 Figjam Widgets](https://www.youtube.com/watch?v=hNZMVYg_wNQ)
+    - [User Journey Mapping](https://www.youtube.com/watch?v=L4E1yupkISI)
 
 - [Lucidspark](https://www.lucidspark.com): Collaborative visual workspace/whiteboarding for brainstorming, diagrams and mind maps, meetings.
   - Templates: 
