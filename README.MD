@@ -9,6 +9,10 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 - [Product Management](#product-management)
 - [General Management Resources](#general-management-resources)
 
+---
+
+## Awesomeness
+
 ### Engineering Management
 
 #### Books
@@ -64,6 +68,21 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
 ### Product Management
 
+#### Articles
+
+- [The Pixar Pitch](https://www.linkedin.com/pulse/pixar-pitch-blueprint-successful-storytelling-presentationload-k6aef/): A framework for presenting complex ideas in a compelling, story-driven way
+
+#### Blogs
+
+- [Product Talk](https://www.producttalk.org/blog/) Teresa Torres
+
+#### Tools
+
+- [Atlassian Jira](https://www.atlassian.com/software/jira) Loved by some, hated by others but that's what comes with being #1 (and people overburdening it with extra fields)
+  - [Resources](https://support.atlassian.com/jira-software-cloud/resources/): Jira's own documentation, help articles, tutorials and videos.
+  - [JQL Reference](https://support.atlassian.com/jira-software-cloud/docs/use-advanced-search-with-jira-query-language-jql/): JQL syntax for advanced search and filtering
+  - [Automation](https://www.atlassian.com/software/jira/features/automation) 10x developers by automating common transitions, notifications and more
+
 #### Books
 
 - [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) by Simon Sinek
@@ -109,9 +128,20 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
 ### General Management Resources
 
+#### Articles
+
+
+#### Collaboration Tools
+
+- [Figjam](https://www.figma.com/templates/boards/figjam): Collaborative whiteboarding and meetings from the creators of Figma with great usability
+
+- [Lucidspark](https://www.lucidspark.com): Collaborative visual workspace/whiteboarding for brainstorming, diagrams and mind maps, meetings.
+  - Templates: 
+    - [Agile](https://lucidspark.com/templates/agile-development): Agile development templates
+
 #### Books
 
-- [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
+- [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by **James Clear** - encourage good habits as well as adopt them yourself for compounding growth 
 
   <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg" alt="Atomic Habits" width="150"/>
 
