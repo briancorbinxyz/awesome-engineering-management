@@ -15,6 +15,10 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
 ### Engineering Management
 
+#### Articles
+
+- [Coaching/Interview Behavioral Responses](https://www.makeuseof.com/alternatives-to-star-method-job-interviews/): Methods for conflict, issue management that also double as succinct ways to respond to behavioral interview questions: STAR, PAR, CAR, DIGS, STARI, STARL
+
 #### Books
 
 - [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) by Simon Sinek
@@ -84,6 +88,8 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
   - [JQL Reference](https://support.atlassian.com/jira-software-cloud/docs/use-advanced-search-with-jira-query-language-jql/): JQL syntax for advanced search and filtering
   - [Automation](https://www.atlassian.com/software/jira/features/automation) 10x developers by automating common transitions, notifications and more
 
+- [GitHub](https://github.com/) / [GitHub Enterprise](https://github.com/enterprise) For code hosting and collaboration, lightweight issue management. 
+
 #### Books
 
 - [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) by Simon Sinek
@@ -139,7 +145,9 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
   - Widgets:
   - Tutorials:
     - [Top 10 Figjam Widgets](https://www.youtube.com/watch?v=hNZMVYg_wNQ)
+    - [FigJam Hacks for User Research](https://www.youtube.com/watch?v=PhCY-ufNL3M)
     - [User Journey Mapping](https://www.youtube.com/watch?v=L4E1yupkISI)
+    - [Brainstorm Ideas in FigJam AI](https://www.youtube.com/watch?v=XLMR_m2gjrc)
 
 - [Lucidspark](https://www.lucidspark.com): Collaborative visual workspace/whiteboarding for brainstorming, diagrams and mind maps, meetings.
   - Templates: 
