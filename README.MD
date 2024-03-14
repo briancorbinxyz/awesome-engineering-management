@@ -18,6 +18,8 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 #### Articles
 
 - [Coaching/Interview Behavioral Responses](https://www.makeuseof.com/alternatives-to-star-method-job-interviews/): Methods for conflict, issue management that also double as succinct ways to respond to behavioral interview questions: STAR, PAR, CAR, DIGS, STARI, STARL
+- [Feedback](https://www.gallup.com/workplace/357764/fast-feedback-fuels-performance.aspx) Fast feedback fuels performance!
+
 
 #### Books
 
@@ -156,6 +158,7 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
 - [Figjam](https://www.figma.com/templates/boards/figjam): Collaborative whiteboarding and meetings from the creators of Figma with great usability
   - Templates:
+    - [5 Whys](https://www.figma.com/file/0oTFw6EiBi5lQ4mlxriuC0/5-Whys-(Community)?type=whiteboard&node-id=501-415&t=6rwh7V9kiVB1FF68-0)
   - Widgets:
   - Tutorials:
     - [Top 10 Figjam Widgets](https://www.youtube.com/watch?v=hNZMVYg_wNQ)
