@@ -83,10 +83,8 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 - [Product vs. Feature Teams](https://www.svpg.com/product-vs-feature-teams/) by SVPG
 - [How to Set Up Your Product Teams for Success](https://www.youtube.com/watch?v=yCiQ2iW-fZk) by Christian Idiodi (SVPG)
 - [Demystifying Minimum Viable Product (MVP)](https://www.youtube.com/watch?v=DlPNhjwdWcI) by Dan Olsen
-- [Strategic Backlog Refinement](https://www.productboard.com/blog/strategic-product-backlog-refinement/) by ProductBoard
 - [Prioritization Frameworks](https://www.productboard.com/glossary/product-prioritization-frameworks/) by ProductBoard
 - Success Stories:
-  - [From 0 to 100 million readers: How Highlights on Medium changed publishing forever](https://www.productboard.com/blog/how-medium-highlights-feature-changed-publishing/)
 - Storytelling:
   - [Unlocking the Power of Storytelling](https://resources.scrumalliance.org/Article/unlocking-power-storytelling) by AgileAlliance
   - [The Pixar Pitch](https://www.linkedin.com/pulse/pixar-pitch-blueprint-successful-storytelling-presentationload-k6aef/): A framework for presenting complex ideas in a compelling, story-driven way
@@ -159,7 +157,7 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
 #### Collaboration Tools
 
-- [Figjam](https://www.figma.com/templates/boards/figjam): Collaborative whiteboarding and meetings from the creators of Figma with great usability
+- [Figjam](https://www.figma.com/figjam/): Collaborative whiteboarding and meetings from the creators of Figma with great usability
   - Templates:
     - [5 Whys](https://www.figma.com/file/0oTFw6EiBi5lQ4mlxriuC0/5-Whys-(Community)?type=whiteboard&node-id=501-415&t=6rwh7V9kiVB1FF68-0)
   - Widgets:
