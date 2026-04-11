@@ -157,7 +157,6 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 - [SLA/SLO/SLI](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
 - [SLIs and Monitoring Strategy](https://tanzu.vmware.com/content/blog/slis-and-error-budgets-what-these-terms-mean-and-how-they-apply-to-your-platform-monitoring-strategy)
 
-
 #### Collaboration Tools
 
 - [Figjam](https://www.figma.com/templates/boards/figjam): Collaborative whiteboarding and meetings from the creators of Figma with great usability
