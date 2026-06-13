@@ -109,6 +109,14 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 
 - [Product Talk](https://www.producttalk.org/blog/): Teresa Torres
 
+  <img src="https://storage.ghost.io/c/57/9b/579b6dca-f48a-4307-844f-f0533595d058/content/images/size/w256h256/format/png/2026/04/product-talk-square-p.webp" alt="Product Talk" width="150"/>
+
+#### Podcasts
+
+- [Product Therapy](https://podcasts.apple.com/us/podcast/product-therapy/id1738373011) by SVPG: The SVPG partners (Marty Cagan, Christian Idiodi, et al.) work through real product problems sent in by listeners — coaching on product strategy, discovery, and leadership
+
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dd/75/97/dd75974e-2f5b-0aa7-201a-b040c27d48d4/mza_8921944439857440665.jpg/600x600bb.jpg" alt="Product Therapy" width="150"/>
+
 #### Tools
 
 - [Atlassian Jira](https://www.atlassian.com/software/jira) Loved by some, hated by others but that's what comes with being #1 (and people overburdening it with extra fields)
