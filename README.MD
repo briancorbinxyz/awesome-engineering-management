@@ -20,7 +20,19 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 - [Coaching/Interview Behavioral Responses](https://www.makeuseof.com/alternatives-to-star-method-job-interviews/): Methods for conflict, issue management that also double as succinct ways to respond to behavioral interview questions: STAR, PAR, CAR, DIGS, STARI, STARL
 - [Feedback](https://www.gallup.com/workplace/357764/fast-feedback-fuels-performance.aspx) Fast feedback fuels performance!
 - [Engineering OKRs](https://mooncamp.com/blog/engineering-okrs/): A framework for setting and tracking OKRs at scale
+- [Working in Small Batches](https://dora.dev/capabilities/working-in-small-batches/) by DORA: Evidence-based capability — small batches create rapid feedback loops and improve team throughput
+- [Trunk-Based Development](https://dora.dev/capabilities/trunk-based-development/) by DORA: Evidence-based capability — frequent merges to trunk over long-lived branches
+- [DORA Report 2025](https://dora.dev/research/2025/dora-report/) by DORA: The annual State of DevOps research — benchmarks and findings on team performance and AI-assisted delivery
+- [Context Anchoring](https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html) by Rahul Garg (martinfowler.com): Externalize architectural decisions into living documents so AI assistants stay consistent as sessions grow
 
+#### Blogs
+
+- [Hello, Engineer(ing) Managers - From Good to Great!](https://briancorbinxyz.medium.com/hello-engineer-ing-managers-2c96a70b48d0): Curation of the foundational management books — great managers are made, not born
+- [Coaching Your Team to Excellence](https://medium.com/@briancorbinxyz/hello-engineering-managers-coaching-your-team-to-excellence-c4cdf4cdc7c3) ([The Player Coach](https://medium.com/@briancorbinxyz/hello-engineering-managers-coaching-your-team-to-excellence-the-player-coach-809c5ee64c75)): Management as coaching, not command-and-control — trust, empathy, and personalized development
+- [The Art of Continuous Learning](https://briancorbinxyz.medium.com/hello-engineer-the-art-of-continuous-learning-7ac8ef1002a6) ([Playing the Game](https://briancorbinxyz.medium.com/hello-engineer-the-art-of-continuous-learning-playing-the-game-70446f25195e)): Growth mindset and learning strategies — spaced repetition, active recall, interleaved practice
+- [Coding is Dead. Long Live Engineering!](https://briancorbinxyz.medium.com/hello-future-coding-is-dead-long-live-engineering-43350e3752dd): Generative AI separates coding from engineering — domain sense and system thinking endure
+- [Engineering at Scale: Tribes, Squads, and Agentic Cliques](https://briancorbinxyz.medium.com/engineering-at-scale-tribes-squads-and-agentic-cliques-5e377076ec7f): Spotify model to AI-era agentic teams, Conway's Law, and human accountability
+- [Sympathetic Engineering: 7 Sympathies of Modern Software Engineers](https://briancorbinxyz.medium.com/sympathetic-engineering-7-sympathies-of-modern-software-engineers-3bebcf88da9b): Mental models ("sympathies") as the foundation for skillful engineering
 
 #### Books
 
@@ -80,6 +92,7 @@ Awesome resources for awesome engineering and product manager/owners: A collecti
 - [Product Management](https://www.svpg.com/product-management-start-here/) by SVPG
 - [What is Product Management](https://www.productboard.com/what-is-product-management/) by ProductBoard
 - [The Product Operating Model](https://www.svpg.com/the-product-operating-model/) by SVPG
+- [A Vision for Product Teams](https://www.svpg.com/a-vision-for-product-teams/) by Marty Cagan (SVPG): Where generative AI takes product team roles and topologies
 - [Product vs. Feature Teams](https://www.svpg.com/product-vs-feature-teams/) by SVPG
 - [How to Set Up Your Product Teams for Success](https://www.youtube.com/watch?v=yCiQ2iW-fZk) by Christian Idiodi (SVPG)
 - [Demystifying Minimum Viable Product (MVP)](https://www.youtube.com/watch?v=DlPNhjwdWcI) by Dan Olsen
